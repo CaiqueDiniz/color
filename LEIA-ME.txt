@@ -1,0 +1,12 @@
+MASTER COLOR — LANDING PAGE INSPIRADA NA RELUMY PRO
+
+1. Abra index.html para testar. Para publicar, envie este diretório inteiro para Vercel, Netlify ou hospedagem estática.
+2. Contatos atuais: (74) 99809-4620 (principal), (74) 99981-6491 (alternativo).
+3. A data e o endereço não foram fornecidos/confirmados para o Master Color; inserir no HTML antes da campanha.
+4. Primeiro lote informado: R$ 400; consulta de parcelamento por Pix ou cartão via WhatsApp.
+5. A imagem institucional na primeira dobra está referenciada no site oficial https://www.relumypro.com/assets/edeneide-relumy.jpeg, pois não foi possível transferi-la para o pacote. Se esse site bloquear imagens externas, a página mostra o retrato reserva derivado do cartaz enviado pelo usuário. Para uma versão autônoma, obtenha uma cópia autorizada da fotografia e substitua a URL externa por assets/foto-edeneide.jpg.
+6. O Instagram da marca não pôde ser carregado automaticamente, então a identidade visual foi fundamentada no site oficial da RELUMY PRO e na imagem institucional nele publicada. O resultado é uma interpretação visual, não cópia da estrutura do site.
+7. Imagens das técnicas e vídeo: materiais enviados nesta conversa. São cenas promocionais, não alegações de resultados garantidos.
+8. META PIXEL: existe um campo META_PIXEL_ID (vazio de propósito) no fim do HTML. Inserir o ID e revisar consentimento/privacidade antes de ativar. Os botões disparam o evento Contact somente se o Pixel estiver carregado.
+9. UTM: parâmetros da URL são adicionados à mensagem do WhatsApp para ajudar a identificar campanhas.
+10. Fotos reais de Edeneide, programação dos 2 dias e local definitivo devem ser revisados antes de publicar.
