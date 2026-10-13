@@ -10,3 +10,9 @@ MASTER COLOR — LANDING PAGE INSPIRADA NA RELUMY PRO
 8. META PIXEL: existe um campo META_PIXEL_ID (vazio de propósito) no fim do HTML. Inserir o ID e revisar consentimento/privacidade antes de ativar. Os botões disparam o evento Contact somente se o Pixel estiver carregado.
 9. UTM: parâmetros da URL são adicionados à mensagem do WhatsApp para ajudar a identificar campanhas.
 10. Fotos reais de Edeneide, programação dos 2 dias e local definitivo devem ser revisados antes de publicar.
+
+--- ATUALIZAÇÃO (melhorias de conversão e compartilhamento) ---
+11. ANTES DE PUBLICAR: no index.html, troque https://SEU-DOMINIO.com.br pelo domínio real (canonical, og:url, og:image, twitter:image). Sem isso o WhatsApp/Facebook não mostram a prévia.
+12. Dados da turma: no fim do index.html, preencha o objeto EVENT (data, local, vagas, validade do 1º lote, valor do próximo lote). Campos preenchidos aparecem no topo e no painel de preço.
+13. Depoimentos: preencha o array TESTIMONIALS com relatos reais de alunas/alunos. Vazio = a seção fica oculta.
+14. assets/og-master-color.jpg (1200x630) é a imagem de prévia ao compartilhar o link.
